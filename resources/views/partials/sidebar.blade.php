@@ -3,7 +3,7 @@
       <div class="app-sidebar__user"><img class="app-sidebar__user-avatar" src="" alt="User Image">
         <div>
           <p class="app-sidebar__user-name">John Doe</p>
-          <p class="app-sidebar__user-designation">Frontend Developer</p>
+          <p class="app-sidebar__user-designation">Frontend Developer team</p>
         </div>
       </div>
       <ul class="app-menu">
